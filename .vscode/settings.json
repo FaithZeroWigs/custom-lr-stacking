@@ -1,0 +1,23 @@
+{
+  "Lua.runtime.version": "Lua 5.1",
+  "Lua.workspace.checkThirdParty": false,
+  "Lua.diagnostics.globals": [
+    "import",
+    "_PLUGIN",
+    "requirePlugin",
+    "WIN_ENV",
+    "MAC_ENV",
+    "LOC",
+    "LrApplication",
+    "LrBinding",
+    "LrCatalog",
+    "LrDialogs",
+    "LrFunctionContext",
+    "LrLogger",
+    "LrPathUtils",
+    "LrPrefs",
+    "LrTasks",
+    "LrView"
+  ],
+  "Lua.runtime.path": ["?.lua", "?/init.lua"]
+}
